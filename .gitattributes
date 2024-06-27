@@ -3,3 +3,4 @@ target filter=lfs diff=lfs merge=lfs -text
 VMS[[:space:]]ICON filter=lfs diff=lfs merge=lfs -text
 nbactions filter=lfs diff=lfs merge=lfs -text
 pom filter=lfs diff=lfs merge=lfs -text
+vms filter=lfs diff=lfs merge=lfs -text
