@@ -1,5 +1,13 @@
 # Volunteer-Management-System-Desktop-Application
 
+NITC Volunteer Management System (VMS) is a software tool designed to help NITC manage and track the involvement of volunteers. It can be used to recruit, schedule, and communicate with volunteers, as well as to track working days, skills, and other information. Overall, a VMS streamlines the volunteer management process and allows NITC to better utilize the time and skills of their volunteers.
+
+## Requirements
+
+- Netbeans IDE 15
+- Java jdk 17
+- WampServer (phpMyAdmin)
+
 ## User Interface Images
 
 ![Screenshot (183)](https://github.com/AnuragKujur-0691/Volunteer-Management-System-Desktop-Application/assets/172887407/0073d8e3-99a0-42f1-a486-c99780d199f8)
